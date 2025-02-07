@@ -79,7 +79,7 @@ header a {
 }
 
 #hero {
-  height: 600px;
+  height: 430px;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     var(--hero-image);
   background-position: center;
