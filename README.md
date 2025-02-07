@@ -48,6 +48,7 @@ Com essas melhorias, o Los Dragon Tech continuará a crescer e evoluir, proporci
 
 WhatsApp: [Link para WhatsApp]
 Telegram: [Link para Telegram]
+
 ## Tecnologias Utilizadas
 
 - **HTML5** - Estrutura básica do site.
