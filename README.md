@@ -11,8 +11,7 @@ site é oferecer aos visitantes uma forma simples e interativa de conhecer meus 
 
 ## Funcionalidades
 
-- **Página Inicial**: Uma introdução sobre quem sou, com links para minhas redes sociais.
-- **Portfólio**: Galeria interativa mostrando meus projetos anteriores, com descrições detalhadas e tecnologias utilizadas.
+
 - **Contato**: Formulário simples para que visitantes possam entrar em contato diretamente comigo.
 
 ## Tecnologias Utilizadas
