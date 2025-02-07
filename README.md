@@ -1,6 +1,7 @@
 # Los Dragon Tech
 
-Bem-vindo ao repositório do **Los Dragon Tech**, um site criado para apresentar o portfólio de projetos e as informações sobre minha carreira no desenvolvimento web. O objetivo deste site é oferecer aos visitantes uma forma simples e interativa de conhecer meus projetos, habilidades e facilitar o contato com potenciais colaboradores ou empregadores.
+Bem-vindo ao repositório do **Los Dragon Tech**, um site criado para apresentar o portfólio de projetos e as informações sobre minha carreira no desenvolvimento web. O objetivo deste
+site é oferecer aos visitantes uma forma simples e interativa de conhecer meus projetos, habilidades e facilitar o contato com potenciais colaboradores ou empregadores.
 
 ## Objetivos
 
