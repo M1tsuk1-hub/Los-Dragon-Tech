@@ -91,7 +91,7 @@ header a {
 
 #hero-text {
   position: absolute;
-  top: 80%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: #fff;
@@ -106,7 +106,7 @@ header a {
 
 #slogan span {
   font-family: "regular";
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   letter-spacing: -5px;
   opacity: 0;
   animation: fade-in 500ms ease-out;
