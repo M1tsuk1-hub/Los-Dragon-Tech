@@ -106,7 +106,7 @@ header a {
 
 #slogan span {
   font-family: "regular";
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   letter-spacing: -5px;
   opacity: 0;
   animation: fade-in 500ms ease-out;
