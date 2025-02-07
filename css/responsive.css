@@ -56,7 +56,7 @@
 /* Responsividade para dispositivos móveis e tablets */
 @media screen and (max-width: 768px) and (max-width: 1024px) {
   header {
-    padding: 15px;
+    padding: 17px;
   }
 
   #logo {
