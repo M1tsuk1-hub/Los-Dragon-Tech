@@ -51,10 +51,11 @@ Telegram: [Link para Telegram]
 
 ## Tecnologias Utilizadas
 
-- **HTML5** - Estrutura básica do site.
-- **CSS3** - Estilo e layout responsivo do site.
-- **JavaScript** - Funcionalidades interativas do site.
-- **React** - Framework utilizado para a construção da interface de usuário (se aplicável).
+HTML5 – Estrutura básica do site.
+CSS3 – Estilo e layout responsivo do site.
+JavaScript – Funcionalidades interativas do site (futuramente serão ativadas).
+React – Framework utilizado para a construção da interface de usuário (futuramente será ativado, se aplicável).
+
 
 ## Como Rodar o Projeto Localmente
 
