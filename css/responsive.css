@@ -1,0 +1,109 @@
+/* Responsividade para dispositivos grandes (desktop) */
+@media screen and (min-width: 1200px) {
+  header {
+    padding: 20px 40px;
+    flex-direction: row;
+  }
+
+  #menu {
+    width: auto;
+    padding: 20px;
+  }
+
+  #hero {
+    height: 500px;
+  }
+
+  #hero-text {
+    font-size: 2rem;
+  }
+
+  #content {
+    padding: 40px;
+  }
+
+  #content-tittle {
+    font-size: 2.5rem;
+  }
+
+  .pc-card {
+    width: 30%;
+    margin: 20px 1.5%;
+    padding: 20px;
+  }
+
+  .pc-card img {
+    width: 100%;
+    max-width: 250px;
+  }
+
+  .white-title,
+  .black-title {
+    font-size: 2.8rem;
+  }
+
+  .white-description,
+  .black-description {
+    font-size: 1.7rem;
+  }
+
+  .know-more {
+    width: 220px;
+    font-size: 18px;
+  }
+}
+
+/* Responsividade para dispositivos móveis e tablets */
+@media screen and (max-width: 768px) and (max-width: 1024px) {
+  header {
+    padding: 15px;
+  }
+
+  #logo {
+    font-size: 1.6rem;
+  }
+
+  #menu,
+  #content {
+    width: 100%;
+    padding: 15px;
+  }
+
+  .pc-card {
+    width: 90%;
+    margin: 15px auto;
+    padding: 12px;
+  }
+
+  .pc-card img {
+    width: 100%;
+    max-width: 180px;
+  }
+
+  .white-title,
+  .black-title {
+    font-size: 2rem;
+  }
+
+  .white-description,
+  .black-description {
+    font-size: 1.4rem;
+  }
+
+  .product {
+    animation: none;
+    opacity: 1;
+  }
+
+  .know-more {
+    width: 100%;
+    font-size: 16px;
+    text-align: center;
+    padding: 8px 0;
+  }
+
+  #slogan {
+    font-size: 1.6rem;
+    text-align: center;
+  }
+}
