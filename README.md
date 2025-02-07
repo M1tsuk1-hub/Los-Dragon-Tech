@@ -1,31 +1,31 @@
 # Los Dragon Tech
 
-## Sobre Nós
+Bem-vindo ao repositório do **Los Dragon Tech**, um site criado para apresentar o portfólio de projetos e as informações sobre minha carreira no desenvolvimento web. O objetivo deste site é oferecer aos visitantes uma forma simples e interativa de conhecer meus projetos, habilidades e facilitar o contato com potenciais colaboradores ou empregadores.
 
-Bem-vindo a Los Dragon Tech! Somos uma equipe apaixonada por tecnologia e inovação, dedicada a trazer as últimas novidades e soluções tecnológicas para você. Nosso objetivo é tornar a tecnologia acessível e útil para todos, 
-através de conteúdos educativos, análises detalhadas e tutoriais práticos.
+## Objetivos
 
-## Nossa Missão
+- Exibir informações sobre minha trajetória profissional e as habilidades adquiridas.
+- Apresentar projetos desenvolvidos, com detalhes sobre as tecnologias utilizadas e links para visualização.
+- Oferecer um formulário de contato para facilitar a comunicação com visitantes interessados.
 
-Nossa missão é capacitar pessoas e empresas com o conhecimento necessário para navegar e prosperar no mundo digital. Acreditamos que a tecnologia tem o poder de transformar vidas e queremos ser o seu guia nessa jornada.
+## Funcionalidades
 
-## O Que Oferecemos
+- **Página Inicial**: Uma introdução sobre quem sou, com links para minhas redes sociais.
+- **Portfólio**: Galeria interativa mostrando meus projetos anteriores, com descrições detalhadas e tecnologias utilizadas.
+- **Contato**: Formulário simples para que visitantes possam entrar em contato diretamente comigo.
 
-- **Artigos e Tutoriais:** Publicamos regularmente artigos e tutoriais sobre as mais diversas áreas da tecnologia, desde programação e desenvolvimento web até inteligência artificial e segurança cibernética.
-- **Análises de Produtos:** Oferecemos análises detalhadas de produtos tecnológicos, ajudando você a fazer escolhas informadas.
-- **Notícias e Tendências:** Mantenha-se atualizado com as últimas notícias e tendências do mundo da tecnologia.
-- **Comunidade:** Junte-se à nossa comunidade de entusiastas e profissionais de tecnologia para compartilhar conhecimento e experiências.
+## Tecnologias Utilizadas
 
-## Nossa Equipe
+- **HTML5** - Estrutura básica do site.
+- **CSS3** - Estilo e layout responsivo do site.
+- **JavaScript** - Funcionalidades interativas do site.
+- **React** - Framework utilizado para a construção da interface de usuário (se aplicável).
 
-Somos uma equipe diversificada de especialistas em tecnologia, desenvolvedores, designers e redatores, todos unidos pela paixão por inovação e excelência.
+## Como Rodar o Projeto Localmente
 
-## Entre em Contato
+Siga as etapas abaixo para rodar o projeto localmente em seu computador:
 
-Se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo sobre tecnologia, não hesite em nos contatar!
-
-- **Email:** contato@losdragontech.com
-- **LinkedIn:** [Los Dragon Tech](https://www.linkedin.com/company/los-dragon-tech)
-- **Twitter:** [@LosDragonTech](https://twitter.com/LosDragonTech)
-
-Obrigado por visitar o Los Dragon Tech! Esperamos que você encontre aqui o que precisa para avançar no mundo da tecnologia. 🚀
+1. **Clone o repositório:**
+   Abra seu terminal e digite:
+   ```bash
+   git clone https://github.com/usuario/los-dragon-tech.git
