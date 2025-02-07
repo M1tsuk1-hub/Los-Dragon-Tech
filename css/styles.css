@@ -117,7 +117,7 @@ header a {
 #hero-text p {
   text-align: center;
   font-family: "italic";
-  font-size: 1.5rem;
+  font-size: 2rem;
   opacity: 0;
   animation: fade-in 1s ease-out;
   animation-fill-mode: forwards;
